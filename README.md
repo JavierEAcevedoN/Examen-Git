@@ -39,8 +39,11 @@ Este es el examen de Git, en el cual se tratara de aplicar la rubricas aprendida
 
 ## instalacion🛐🛐:
  - Lo primero que se debe de hacer es descargar el archivo.zip.
+ - ![Primera imagen](https://github.com/JavierEAcevedoN/Examen-Git/blob/Develop/Captura%20desde%202024-07-12%2016-33-27.png)
  - luego lo que debemos de hacer es descomprimirlo para tener la carpeta completa con los archivos.
+ - ![segunda imagen](https://github.com/JavierEAcevedoN/Examen-Git/blob/Develop/Captura%20desde%202024-07-12%2016-34-23.png)
  - Ultimo lo abrimos con nuestro visual estudio code.
+ - ![Tercera imagen](https://github.com/JavierEAcevedoN/Examen-Git/blob/Develop/Captura%20desde%202024-07-12%2016-46-09.png)
 ## Uso🖐️🗿🫵:
   - luego de terminar con la instalacion lo que debemos de hacer es:
   - abrir el archivo con visual estudio code.
