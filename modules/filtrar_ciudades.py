@@ -6,6 +6,7 @@ def Filtrar(datos):
         try:
 
             print()
+            print("***********************************************")
             print("Modulo de filtrar ciudades")
             print("Los cambios solo se guardan cuando termine el programa.")
             print("(1) Buscar por nombre.")
@@ -43,6 +44,7 @@ def Filtrar_poblacion(datos):
         try:
 
             print()
+            print("***********************************************")
             print("Modulo de filtrar ciudades")
             print("Los cambios solo se guardan cuando termine el programa.")
             print("(1) Buscar por menor poblacion.")

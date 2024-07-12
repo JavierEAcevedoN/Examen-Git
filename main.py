@@ -16,6 +16,7 @@ while True:
 
         # Opciones
         print()
+        print("***********************************************")
         print("Menu general")
         print("(1) Modulo Ciudades CRUD.")
         print("(2) Modulo Filtrar Ciudades.")
