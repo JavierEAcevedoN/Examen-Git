@@ -49,10 +49,18 @@ Este es el examen de Git, en el cual se tratara de aplicar la rubricas aprendida
   - abrir el archivo con visual estudio code.
   - luego dentro de todos los archivos nos vamos a uno especifico que tiene como nombre "main.py"
   - en este se desplegara un menu con todas las funcionalidades ya antes mencionadas
+## Apartado de commits:
+ - En total se realiazron 18 commits en la rama de main, contanto a este
+ - ![img1](https://github.com/JavierEAcevedoN/Examen-Git/blob/main/Captura%20desde%202024-07-12%2017-18-35.png)
+ - ![img2](https://github.com/JavierEAcevedoN/Examen-Git/blob/main/Captura%20desde%202024-07-12%2017-18-40.png)
+ - en la rama de Develop el total de commits fueron 14:
+ - ![img3](https://github.com/JavierEAcevedoN/Examen-Git/blob/main/Captura%20desde%202024-07-12%2017-18-46.png)
+ - ![img4](https://github.com/JavierEAcevedoN/Examen-Git/blob/main/Captura%20desde%202024-07-12%2017-18-52.png )
 
 ## Herramienta🏹🪚⚱️:
 - Python :3
 - Git
+- GitHub
 
 ## Autores🧏‍♂️🧏‍♂️:
 * **Juan Ruiz** [Juanruiz2004](https://github.com/JuanRuiz2004)
