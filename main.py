@@ -1,4 +1,6 @@
 from modules.datos_json import *
+from modules.ciudades_crud import CRUD
+from modules.filtrar_ciudades import Filtrar
 
 # Importacion del dato
 try:
@@ -12,9 +14,10 @@ while True:
     choice = -1
     try:
 
-        # opciones
+        # Opciones
+        print()
+        print("***********************************************")
         print("Menu general")
-        print("Ingresa la opcion: ")
         print("(1) Modulo Ciudades CRUD.")
         print("(2) Modulo Filtrar Ciudades.")
         print("(0) Terminar.")
@@ -25,12 +28,12 @@ while True:
         print(e)
 
     if choice == 1:
-        None
+        Ciudades = CRUD(Ciudades)
     elif choice == 2:
-        None
+        Filtrar(Ciudades)
     elif choice == 0:
         print("Terminando proceso")
         break
 
-    # guardado de los datos
+    # Guardado del dato
     guardar_datos_json(Ciudades,"./Ciudades.json")
