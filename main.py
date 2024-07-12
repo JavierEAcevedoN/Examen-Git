@@ -1,27 +1,27 @@
 from modules.datos_json import *
 
-# importe de los datos
+# Importacion del dato
 try:
     Ciudades = cargar_datos_json("./Ciudades.json")
 except Exception as e:
-        print("hubo un error en la importacion de los datos")
+        print("Hubo un error en la Importacion del dato")
         print(e)
 
-# menu de seleccion
+# Menu de seleccion
 while True:
     choice = -1
     try:
 
         # opciones
-        choice = 0
         print("Menu general")
-        print("ingresa la opcion: ")
+        print("Ingresa la opcion: ")
         print("(1) Modulo Ciudades CRUD.")
         print("(2) Modulo Filtrar Ciudades.")
         print("(0) Terminar.")
-    
+        choice = int(input("Ingresa la opcion: "))
+
     except Exception as e:
-        print("ese valor no es valido")
+        print("Ese valor no es valido")
         print(e)
 
     if choice == 1:
@@ -33,4 +33,4 @@ while True:
         break
 
     # guardado de los datos
-    guardar_datos_json(Ciudades,"JSON/usuarios.json")
+    guardar_datos_json(Ciudades,"./Ciudades.json")
