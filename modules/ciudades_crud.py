@@ -5,12 +5,11 @@ def CRUD(datos):
         choice = -1
         try:
 
+            print()
             print("Modulo de ciudades")
             print("Los cambios solo se guardan cuando termine el programa.")
-            print("Ingresa la opcion: ")
             print("(1) Agregar Ciudad.")
             print("(2) Editar Ciudad.")
-            print("(3) Buscar ciudad.")
             print("(0) Terminar.")
             choice = int(input("Ingresa la opcion: "))
         
@@ -21,8 +20,6 @@ def CRUD(datos):
         if choice == 1:
             None
         elif choice == 2:
-            None
-        elif choice == 3:
             None
         elif choice == 0:
             print("Terminando proceso")

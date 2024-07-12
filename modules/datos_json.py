@@ -9,7 +9,7 @@ def cargar_datos_json(ruta):
 
 # guardar los datos en un archivo json
 def guardar_datos_json(datos, ruta):
-    datos = list(datos)
+    datos = dict(datos)
     diccionario = json.dumps(datos, indent=4)
     file = open(ruta,"w")
     file.write(diccionario)

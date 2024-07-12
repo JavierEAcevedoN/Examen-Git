@@ -1,70 +1,44 @@
 {
- 
-
-    "pais":[{
-
-        "colombia" :[{
-
-        "cundidamarca":{
-
-            "ciudad": "bogota",
-            "poblacion":"+7.121.493",
-            "codigo postal": 110110,
-            "pais":"colombia"
-            
-            }
-            ,
-
-            "santander":{
-
+    "pais": {
+        "colombia": {
+            "cundidamarca": {
+                "ciudad": "bogota",
+                "poblacion": "+7.121.493",
+                "codigo postal": 110110,
+                "pais": "colombia"
+            },
+            "santander": {
                 "ciudad": "bucaramanga",
-                "poblacion":"+581.130",
+                "poblacion": "+581.130",
                 "codigo postal": 680001,
-                "pais":"colombia"
-            }
-            ,
-
-            "quindio":{
-
+                "pais": "colombia"
+            },
+            "quindio": {
                 "ciudad": "Armenia",
-                "poblacion":"+295.208",
+                "poblacion": "+295.208",
                 "codigo postal": 63001,
-                "pais":"colombia"
+                "pais": "colombia"
             }
-
-
-            }],
-
-            "argentina" :[{
-                
-                "santiago del estero":{
-
-                    "ciudad": "santiago del estero",
-                    "poblacion":"+1.734.920",
-                    "codigo postal": 1245,
-                    "pais":"argentina"
-            
-                }
-                ,
-
-                "san juan":{
-
-                    "ciudad": "san juan",
-                    "poblacion":"+581.130",
-                    "codigo postal": 1656,
-                    "pais":"argentina"
-                }
-                ,
-
-                "santa fe":{
-
-                    "ciudad": "santa fe ",
-                    "poblacion":"+356.233",
-                    "codigo postal": 4581,
-                    "pais":"argentina"
-                }
-            }]
-
-    }]        
-
+        },
+        "argentina": {
+            "santiago del estero": {
+                "ciudad": "santiago del estero",
+                "poblacion": "+1.734.920",
+                "codigo postal": 1245,
+                "pais": "argentina"
+            },
+            "san juan": {
+                "ciudad": "san juan",
+                "poblacion": "+581.130",
+                "codigo postal": 1656,
+                "pais": "argentina"
+            },
+            "santa fe": {
+                "ciudad": "santa fe ",
+                "poblacion": "+356.233",
+                "codigo postal": 4581,
+                "pais": "argentina"
+            }
+        }
+    }
 }
