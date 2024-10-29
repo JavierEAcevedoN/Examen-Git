@@ -5,24 +5,21 @@
                 {
                     "ciudad": "bogota",
                     "poblacion": "+7.121.493",
-                    "codigo postal": 110110,
-                    "pais": "colombia"
+                    "codigo postal": 110110
                 }
             ],
             "santander": [
                 {
                     "ciudad": "bucaramanga",
                     "poblacion": "+581.130",
-                    "codigo postal": 680001,
-                    "pais": "colombia"
+                    "codigo postal": 680001
                 }
             ],
             "quindio": [
                 {
                     "ciudad": "Armenia",
                     "poblacion": "+295.208",
-                    "codigo postal": 63001,
-                    "pais": "colombia"
+                    "codigo postal": 63001
                 }
             ]
         },
@@ -31,24 +28,21 @@
                 {
                     "ciudad": "santiago del estero",
                     "poblacion": "+1.734.920",
-                    "codigo postal": 1245,
-                    "pais": "argentina"
+                    "codigo postal": 1245
                 }
             ],
             "san juan": [
                 {
                     "ciudad": "san juan",
                     "poblacion": "+581.130",
-                    "codigo postal": 1656,
-                    "pais": "argentina"
+                    "codigo postal": 1656
                 }
             ],
             "santa fe": [
                 {
                     "ciudad": "santa fe ",
                     "poblacion": "+356.233",
-                    "codigo postal": 4581,
-                    "pais": "argentina"
+                    "codigo postal": 4581
                 }
             ]
         }
