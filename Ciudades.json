@@ -3,22 +3,22 @@
         "colombia": {
             "cundidamarca": [
                 {
-                    "ciudad": "bogota",
-                    "poblacion": "+7.121.493",
+                    "ciudad": "Bogota",
+                    "poblacion": 7121493,
                     "codigo postal": 110110
                 }
             ],
             "santander": [
                 {
-                    "ciudad": "bucaramanga",
-                    "poblacion": "+581.130",
+                    "ciudad": "Bucaramanga",
+                    "poblacion": 581130,
                     "codigo postal": 680001
                 }
             ],
             "quindio": [
                 {
                     "ciudad": "Armenia",
-                    "poblacion": "+295.208",
+                    "poblacion": 295208,
                     "codigo postal": 63001
                 }
             ]
@@ -26,22 +26,22 @@
         "argentina": {
             "santiago del estero": [
                 {
-                    "ciudad": "santiago del estero",
-                    "poblacion": "+1.734.920",
+                    "ciudad": "Santiago del Estero",
+                    "poblacion": 1734920,
                     "codigo postal": 1245
                 }
             ],
             "san juan": [
                 {
-                    "ciudad": "san juan",
-                    "poblacion": "+581.130",
+                    "ciudad": "San Juan",
+                    "poblacion": 581130,
                     "codigo postal": 1656
                 }
             ],
             "santa fe": [
                 {
-                    "ciudad": "santa fe ",
-                    "poblacion": "+356.233",
+                    "ciudad": "Santa fe ",
+                    "poblacion": 356233,
                     "codigo postal": 4581
                 }
             ]
