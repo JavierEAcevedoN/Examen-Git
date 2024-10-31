@@ -26,7 +26,7 @@ Este es el examen de Git, en el cual se tratara de aplicar la rubricas aprendida
 
 - Utilizar ramas para poder manejar el proyecto mas "eficientemente"
 - Utilizar el "merge" para la unificacion de las ramas
-- Utilizar continuamente o cuando se requiera elk comando "commit"
+- Utilizar continuamente o cuando se requiera el comando "commit"
 - Solucionar problemas que se vean afectados por la unificacion de ramas
 
 <h2 id="que_se_hizo">¿Que se hizo?:</h2>
@@ -59,10 +59,10 @@ Este es el examen de Git, en el cual se tratara de aplicar la rubricas aprendida
 
 <h2 id="apartado_de_commits">Apartado de commits:</h2>
 
-- En total se realiazron 19 commits en la rama de main, contanto a este
+- En total se realiazron 21 commits en la rama de main, contanto a este
 ![img1](./Img/Commit_1.png)
 ![img2](./Img/Commit_2.png)
-- En la rama de Develop el total de commits fueron 14:
+- En la rama de Develop el total de commits fueron 19:
 ![img3](./Img/Commit_3.png)
 ![img4](./Img/Commit_4.png )
 

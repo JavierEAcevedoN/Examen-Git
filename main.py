@@ -18,9 +18,9 @@ while True:
         print()
         print("***********************************************")
         print("Menu general")
-        print("(1) Modulo Ciudades CRUD.")
-        print("(2) Modulo Filtrar Ciudades. (no funciona)")
-        print("(0) Terminar.")
+        print("1) Modulo Ciudades CRUD.")
+        print("2) Modulo Filtrar Ciudades.")
+        print("0) Terminar.")
         choice = int(input("Ingresa la opcion: "))
 
     except Exception as e:
@@ -30,8 +30,7 @@ while True:
     if choice == 1:
         Ciudades = CRUD(Ciudades)
     elif choice == 2:
-        # Filtrar(Ciudades)
-        None
+        Filtrar(Ciudades)
     elif choice == 0:
         print("Terminando proceso")
         break

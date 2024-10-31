@@ -13,6 +13,11 @@
                     "ciudad": "Bucaramanga",
                     "poblacion": 581130,
                     "codigo postal": 680001
+                },
+                {
+                    "ciudad": "BarrancaBermeja",
+                    "poblacion": 10000000,
+                    "codigo postal": 234567
                 }
             ],
             "quindio": [
